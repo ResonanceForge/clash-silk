@@ -13,6 +13,6 @@ It will have:
 
 ## Contribution Guildlines
 
-1. No javascript and its variances.
+1. No javascript and its variants.
 2. No Qt.
 3. No HTML in the markdown files.

@@ -12,8 +12,8 @@ It will:
 - have better performance
 - be hackable and extendable
 
-## Contribution Guildlines
+## Contribution Guidelines
 
-1. No javascript and its variants.
+1. No JavaScript and its variants.
 2. No Qt.
 3. No HTML in the markdown files.

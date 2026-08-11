@@ -6,10 +6,11 @@ A GUI client for `mihomo` aimed to be light and usable.
 
 clash-silk is started to make a `mihomo` GUI that is usable and suck less.
 
-It will have:
+It will:
 
-- a TUN mode with the same experience of `clash-party`
-- better performance
+- have a TUN mode with the same experience of `clash-party`
+- have better performance
+- be hackable and extendable
 
 ## Contribution Guildlines
 
